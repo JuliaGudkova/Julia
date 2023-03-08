@@ -1,4 +1,4 @@
-#Гудкова Юлия Андреевна
+# Гудкова Юлия Андреевна
 
 Родилась в Санкт - Петербурге 
 
@@ -6,4 +6,4 @@
 
 Фото 
 
-[](bmw-motorsport-customer-racing-wallpaper.jpg.asset.1581519349432.jpg)
+![Моя фотография](bmw-motorsport-customer-racing-wallpaper.jpg.asset.1581519349432.jpg)
